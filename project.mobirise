@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "gabecardenas.github.io.html",
+    "currentPage": "home.github.io.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2442,7 +2442,7 @@
         }
       ]
     },
-    "gabecardenas.github.io.html": {
+    "home.github.io.html": {
       "settings": {
         "main": true,
         "title": "Home",

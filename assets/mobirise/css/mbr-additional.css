@@ -1274,7 +1274,7 @@ section.lazy-placeholder:after {
 .cid-rIAwGUTIH0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #eb1212;
 }
 .cid-rIAwGUTIH0 .mbr-section-btn > * {
   margin: 0;
@@ -1337,6 +1337,16 @@ section.lazy-placeholder:after {
 .cid-rIAwGUTIH0 .cost {
   text-decoration: line-through;
   color: #767676;
+}
+.cid-rIAwGUTIH0 .text2,
+.cid-rIAwGUTIH0 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rIAwGUTIH0 .text1 {
+  color: #ffffff;
+}
+.cid-rIAwGUTIH0 H2 {
+  color: #ffffff;
 }
 .cid-rIAx0EwRZT {
   padding-top: 15px;
@@ -1850,8 +1860,8 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rJ8GHhal7S {
-  padding-top: 15px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #cccccc;
 }
 .cid-rJ8GHhal7S .images-container.container-fluid {
@@ -1899,9 +1909,24 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-rJBxkNblo6 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
+}
+.cid-rJBxkNblo6 .mbr-text,
+.cid-rJBxkNblo6 blockquote {
+  color: #767676;
+}
+.cid-rJBxkNblo6 .mbr-text P {
+  text-align: left;
+}
+.cid-rJBxkNblo6 .mbr-text {
+  color: #232323;
+}
 .cid-rJf03y6hfs {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #232323;
 }
 @media (min-width: 992px) {
@@ -1933,7 +1958,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rJf3H4oQHl .mbr-text {
-  color: #232323;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rJf55vIwN4 {
@@ -2377,7 +2402,7 @@ section.lazy-placeholder:after {
 }
 .cid-rIAzQV4q8x {
   padding-top: 105px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #cccccc;
 }
 .cid-rIAzQV4q8x .mbr-text,
@@ -2388,16 +2413,19 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rIAAfMl2m6 {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 60px;
-  background-color: #cccccc;
+  background-color: #232323;
 }
 .cid-rIAAfMl2m6 .mbr-text,
 .cid-rIAAfMl2m6 blockquote {
   color: #767676;
 }
 .cid-rIAAfMl2m6 .mbr-text {
-  color: #232323;
+  color: #ffffff;
+}
+.cid-rIAAfMl2m6 .mbr-text P {
+  text-align: left;
 }
 .cid-rHxCX1a1eq {
   background-image: url("../../../assets/images/marvel-superheroes-pic-620x330.jpg");
@@ -3266,11 +3294,12 @@ section.lazy-placeholder:after {
 }
 .cid-rJ3Q3M0zql .mbr-text {
   color: #232323;
+  text-align: left;
 }
 .cid-rJ3SnCEyyp {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #465052;
+  background-color: #cccccc;
 }
 @media (min-width: 992px) {
   .cid-rJ3SnCEyyp .mbr-figure {
@@ -3283,7 +3312,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rJ3SnCEyyp .mbr-text {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rJ3Q0ZtyzV {
   padding-top: 15px;
@@ -3321,4 +3350,5 @@ section.lazy-placeholder:after {
 }
 .cid-rJ4MXnuPOx .mbr-text {
   color: #232323;
+  text-align: left;
 }
